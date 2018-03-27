@@ -1,0 +1,7 @@
+com\es\hadoop\App.class
+com\es\hadoop\Temperature$TempMapper.class
+com\es\hadoop\WordCount$Map.class
+com\es\hadoop\Temperature.class
+com\es\hadoop\WordCount$Reduce.class
+com\es\hadoop\Temperature$TempReducer.class
+com\es\hadoop\WordCount.class
